@@ -7,8 +7,7 @@ include_once('header.php');
 print_header();
 
 
-
-echo 'weather shit';
+echo 'it is in fact fuken wimdy';
 
 
 
